@@ -1,0 +1,11 @@
+{
+  "results": [{
+    "channel": "chromium",
+    "browser_version": "example-version-1",
+    "headless": true,
+    "actual_host": {"system": "ExampleOS", "architecture": "example-arch"},
+    "observed_browser": {"screen": {"width": 1280, "height": 720}},
+    "repeat_sample_stable": true,
+    "measured_utc": "2026-01-01T00:00:00Z"
+  }]
+}
